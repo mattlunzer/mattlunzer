@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on everything Azure!
-- 🌱 I’m currently learning Lots-O-Kubernetes these days!
 
 <!--
 **mattlunzer/mattlunzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
